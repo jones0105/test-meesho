@@ -1,0 +1,29 @@
+/* mobile */
+@media(min-width:320px){
+    .col{
+        width:100%;
+        }
+
+}
+
+/* ipad */
+@media(min-width:660px){
+    .col{
+        width:100%;
+        
+    }
+    
+    
+}
+
+/* laptop */
+@media(min-width:960px){
+    .col{
+        width:45%;
+        
+    
+        
+    }
+    
+    
+}
